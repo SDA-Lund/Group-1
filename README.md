@@ -7,4 +7,4 @@ Content:
 4. Responsibilities Matrix
 5. UX Prototype
 
-![Customer Contract Handler Module](Customer Contract Handler Module.png)
+![alt text](img.png)
